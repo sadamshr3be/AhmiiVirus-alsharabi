@@ -1,4 +1,4 @@
-# AhmiiVirus-alsharabi
+# Create a mobile destructive virus through the link
 
 # تثبيت الاداة 
 
